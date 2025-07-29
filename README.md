@@ -10,6 +10,9 @@
 
 The **iDragon Game** is a simple yet addictive web-based game where the player controls a dragon to dodge incoming obstacles. The longer you survive, the higher your score climbs. The game is styled with custom animations and offers a responsive, interactive experience suitable for both desktop and mobile devices.
 
+ ## important key to Play 
+ upper ,left , right..
+
 ## 📱 Features
 
 - Smooth dragon movement using keyboard controls
